@@ -2,10 +2,6 @@
 
 ### Java & Spring • API design • Pragmatic DDD • DevOps
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=osjoholm&label=Profile%20views&color=0e75b6&style=flat" alt="osjoholm" />
-</p>
-
 - 🔭 I’m currently working on **robust domain models and stable APIs designed for long-term evolution**
 - 🌱 I’m currently learning **practical LLM-assisted development (guardrails, evaluation, and safe change)**
 - 💬 Ask me about **DDD, Java/Spring backend engineering, API design, and pragmatic architecture**
