@@ -2,10 +2,10 @@
 
 ### Java & Spring • API design • Pragmatic DDD • DevOps
 
-- 🔭 I’m currently working on **robust domain models and stable APIs designed for long-term evolution**
-- 🌱 I’m currently learning **practical LLM-assisted development (guardrails, evaluation, and safe change)**
-- 💬 Ask me about **DDD, Java/Spring backend engineering, API design, and pragmatic architecture**
-- 📫 How to reach me: **oscar.sjoholm@gmail.com**
+- I’m currently working on **robust domain models and stable APIs designed for long-term evolution**
+- I’m currently learning **practical LLM-assisted development (guardrails, evaluation, and safe change)**
+- Ask me about **DDD, Java/Spring backend engineering, API design, and pragmatic architecture**
+- How to reach me: **oscar.sjoholm@gmail.com**
 
 ## Connect with me
 <p align="left">
