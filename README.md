@@ -2,7 +2,7 @@
 
 Java/Spring + TypeScript/Next.js (Payload CMS) • Pragmatic DDD • APIs that age well
 
-Currently: practical AI patterns — **RAG**, evaluation, guardrails.
+Currently: practical AI patterns — RAG, evaluation, guardrails.
 
 📫 oscar.sjoholm@gmail.com
 
